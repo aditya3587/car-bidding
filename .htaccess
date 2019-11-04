@@ -1,0 +1,25 @@
+RewriteRule ^car-bidding/api/login/?$ /api/login.php [NC,L]
+RewriteRule ^car-bidding/api/login/([0-9]+)/?$ /api/login.php?id=$1 [NC,L]
+RewriteRule ^nexa/api/fcmToken/?$ /api/fcmToken.php [NC,L]
+RewriteRule ^nexa/api/fcmToken/([0-9]+)/?$ /api/fcmToken.php?id=$1 [NC,L]
+RewriteRule ^nexa/api/forgotPassword/?$ /api/forgotPassword.php [NC,L]
+RewriteRule ^nexa/api/forgotPassword/([0-9]+)/?$ /api/forgotPassword.php?id=$1 [NC,L]
+RewriteRule ^nexa/api/ads/?$ /api/ads.php [NC,L]
+RewriteRule ^nexa/api/ads/([0-9]+)/?$ /api/ads.php?id=$1 [NC,L]
+
+
+RewriteRule ^car-bidding/api/specifications/?$ /api/specifications.php [NC,L]
+RewriteRule ^car-bidding/api/specifications/([0-9]+)/?$ /api/specifications.php?id=$1 [NC,L]
+
+
+RewriteRule ^car-bidding/api/customer/registration/?$ /api/customer/registration.php [NC,L]
+RewriteRule ^car-bidding/api/customer/registration/([0-9]+)/?$ /api/customer/registration.php?id=$1 [NC,L]
+
+RewriteRule ^car-bidding/api/customer/login/?$ /api/customer/login.php [NC,L]
+RewriteRule ^car-bidding/api/customer/login/([0-9]+)/?$ /api/customer/login.php?id=$1 [NC,L]
+
+RewriteRule ^car-bidding/api/customer/fcmToken/?$ /api/customer/fcmToken.php [NC,L]
+RewriteRule ^car-bidding/api/customer/fcmToken/([0-9]+)/?$ /api/customer/fcmToken.php?id=$1 [NC,L]
+
+RewriteRule ^car-bidding/api/customer/forgotPassword/?$ /api/customer/forgotPassword.php [NC,L]
+RewriteRule ^car-bidding/api/customer/forgotPassword/([0-9]+)/?$ /api/customer/forgotPassword.php?id=$1 [NC,L]

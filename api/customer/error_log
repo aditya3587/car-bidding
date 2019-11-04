@@ -1,0 +1,11 @@
+[29-Aug-2019 11:52:44 Etc/GMT] PHP Notice:  Undefined index: token in /home/sourcpxn/public_html/car-bidding/api/customer/fcmToken.php on line 39
+[29-Aug-2019 11:52:44 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sourcpxn/public_html/car-bidding/api/customer/fcmToken.php on line 64
+[29-Aug-2019 11:53:27 Etc/GMT] PHP Notice:  Undefined index: token in /home/sourcpxn/public_html/car-bidding/api/customer/fcmToken.php on line 39
+[29-Aug-2019 11:53:27 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sourcpxn/public_html/car-bidding/api/customer/fcmToken.php on line 64
+[29-Aug-2019 11:53:32 Etc/GMT] PHP Notice:  Undefined index: token in /home/sourcpxn/public_html/car-bidding/api/customer/fcmToken.php on line 39
+[29-Aug-2019 11:53:32 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sourcpxn/public_html/car-bidding/api/customer/fcmToken.php on line 64
+[29-Aug-2019 11:53:46 Etc/GMT] PHP Notice:  Undefined index: token in /home/sourcpxn/public_html/car-bidding/api/customer/fcmToken.php on line 39
+[29-Aug-2019 11:53:59 Etc/GMT] PHP Notice:  Undefined index: token in /home/sourcpxn/public_html/car-bidding/api/customer/fcmToken.php on line 39
+[29-Aug-2019 11:55:22 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sourcpxn/public_html/car-bidding/api/customer/fcmToken.php on line 64
+[29-Aug-2019 11:56:12 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/sourcpxn/public_html/car-bidding/api/customer/fcmToken.php on line 64
+[29-Aug-2019 12:11:51 Etc/GMT] PHP Notice:  Undefined index: name in /home/sourcpxn/public_html/car-bidding/api/customer/forgotPassword.php on line 56
